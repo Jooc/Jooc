@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 --!>
 
 <!--
 **Jooc/Jooc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🍃
+
+Yesterday's history is etched in technology. <br />
+Today's treasure lies in unmet demand. <br />
+And with code we scribe the future. <br />
+
+🍂
