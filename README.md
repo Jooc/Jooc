@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 🍃
 
-Yesterday's history is etched in technology. <br />
-Today's treasure lies in unmet demand. <br />
-And with code we scribe the future. <br />
+We were born to pursue knowledge, <br />
+for we were born with nought <br />
 
 🍂
